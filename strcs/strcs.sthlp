@@ -343,17 +343,15 @@ iteration.
 {title:Author}
 
 {pstd}
-Hannah Bower,Karolinska Institutet, Stockholm, Sweden.
-({browse "mailto:hannah.bower@ki.se":hannah.bower@ki.se})
+Hannah Bower, Red Door Analytics AB, Stockholm, Sweden.
 
 {pstd}
-Paul Lambert, University of Leicester, UK.
-({browse "mailto:paul.lambert@leicester.ac.uk":paul.lambert@leicester.ac.uk})
+Paul Lambert, Karolinska Institutet, Stockholm, Sweden.
 
 
 {pstd}
-Michael Crowther, University of Leicester, UK and Karolinska Institutet, Stockholm, Sweden.
-({browse "michael.crowther@le.ac.uk":michael.crowther@le.ac.uk})
+Michael Crowther, Red Door Analytics AB, Stockholm, Sweden.
+({browse "mailto:michael.crowther@reddooranalytics.se":michael.crowther@reddooranalytics.se})
 
 
 {title:References}
