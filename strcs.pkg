@@ -1,6 +1,6 @@
 v 3
 d strcs: fitting flexible parametric models on the log hazard scale
-d Author: Hannah Bower
+d Author: Hannah Bower, Michael J. Crowther, Paul C. Lambert
 d Distribution-Date: 20220504
 f strcs/strcs.ado
 f strcs/strcs_pred.ado
